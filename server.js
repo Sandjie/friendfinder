@@ -17,6 +17,3 @@ app.use(bodyParser.json({
   type: "application/vnd.api+json"
 }));
 
-app.get('/', function (req, res) {
-  res.send('hello world')
-})
