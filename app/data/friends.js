@@ -1,6 +1,6 @@
 var friends = [
 {
-	name: " Shithead",
+	name: " Trump",
 	photo: "https://68.media.tumblr.com/8fc255ca98c8e775273d8fe1e22cff72/tumblr_o78nyjUMOi1uhn8mdo1_1280.jpg",
 	scores: ["1",
 	"2",
@@ -31,7 +31,7 @@ var friends = [
 },
 
 {
-	name: " Sexy Boy",
+	name: " Crazy Boy",
 	photo: "https://s-media-cache-ak0.pinimg.com/originals/c2/21/01/c221017f01fc4a05a52161cc9f717565.jpg",
 	scores: ["2",
 	"2",
